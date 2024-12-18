@@ -1,16 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: aisbergde # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: goertz-invest.de
+    url: https://goertz-invest.de
+  - name: germo-goertz.de
+    url: https://germo-goertz.de
+  - name: der-immobilien-investor.de
+    url: https://der-immobilien-investor.de/
+  - name: felicia-xenia.de
+    url: https://felicia-xenia.de/
+  - name: boruch-art.de
+    url: https://boruch-art.de/
+  - name: levitskaia-art.de
+    url: https://levitskaia-art.de/
+  - name: steinberg-art.com
+    url: https://steinberg-art.com/
+  - name: steinberg-design.de
+    url: https://steinberg-design.de/
+  - name: germo-goertz.fincrm.de
+    url: https://germo-goertz.fincrm.de/
+  - name: akademie.germo-goertz.de
+    url: https://akademie.germo-goertz.de/
+  # - name: aaa
+  #   url: aaa
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -20,8 +34,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
