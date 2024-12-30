@@ -4,9 +4,9 @@
     "url": "https://goertz-invest.de",
     "icon": "https://icons.duckduckgo.com/ip3/goertz-invest.de.ico",
     "slug": "goertz-invest-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1066,
     "timeMonth": 1122,
     "timeYear": 1122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-30": 0
+    }
   },
   {
     "name": "germo-goertz.de",
     "url": "https://germo-goertz.de",
     "icon": "https://icons.duckduckgo.com/ip3/germo-goertz.de.ico",
     "slug": "germo-goertz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1195,
     "timeMonth": 1172,
     "timeYear": 1172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-30": 0
+    }
   },
   {
     "name": "der-immobilien-investor.de",
@@ -59,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/felicia-xenia.de.ico",
     "slug": "felicia-xenia-de",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 945,
     "timeDay": 931,
     "timeWeek": 890,
