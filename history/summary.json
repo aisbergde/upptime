@@ -24,9 +24,9 @@
     "url": "https://germo-goertz.de",
     "icon": "https://icons.duckduckgo.com/ip3/germo-goertz.de.ico",
     "slug": "germo-goertz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -36,6 +36,7 @@
     "timeMonth": 1119,
     "timeYear": 1119,
     "dailyMinutesDown": {
+      "2025-01-09": 0,
       "2024-12-30": 20
     }
   },
@@ -62,9 +63,9 @@
     "url": "https://felicia-xenia.de/",
     "icon": "https://icons.duckduckgo.com/ip3/felicia-xenia.de.ico",
     "slug": "felicia-xenia-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -74,6 +75,7 @@
     "timeMonth": 919,
     "timeYear": 919,
     "dailyMinutesDown": {
+      "2025-01-09": 0,
       "2024-12-28": 23
     }
   },
