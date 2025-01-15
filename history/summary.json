@@ -44,9 +44,9 @@
     "url": "https://der-immobilien-investor.de/",
     "icon": "https://icons.duckduckgo.com/ip3/der-immobilien-investor.de.ico",
     "slug": "der-immobilien-investor-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 1050,
     "timeMonth": 1810,
     "timeYear": 1810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   },
   {
     "name": "felicia-xenia.de",
