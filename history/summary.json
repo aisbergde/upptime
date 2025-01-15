@@ -4,9 +4,9 @@
     "url": "https://goertz-invest.de",
     "icon": "https://icons.duckduckgo.com/ip3/goertz-invest.de.ico",
     "slug": "goertz-invest-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 1007,
     "timeYear": 1007,
     "dailyMinutesDown": {
+      "2025-01-15": 0,
       "2024-12-30": 20
     }
   },
@@ -44,19 +45,19 @@
     "url": "https://der-immobilien-investor.de/",
     "icon": "https://icons.duckduckgo.com/ip3/der-immobilien-investor.de.ico",
     "slug": "der-immobilien-investor-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1810,
-    "timeDay": 819,
-    "timeWeek": 1050,
-    "timeMonth": 1810,
-    "timeYear": 1810,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1929,
+    "timeDay": 3279,
+    "timeWeek": 1636,
+    "timeMonth": 1929,
+    "timeYear": 1929,
     "dailyMinutesDown": {
-      "2025-01-15": 0
+      "2025-01-15": 16
     }
   },
   {
@@ -138,9 +139,9 @@
     "url": "https://steinberg-design.de/",
     "icon": "https://icons.duckduckgo.com/ip3/steinberg-design.de.ico",
     "slug": "steinberg-design-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,7 +150,9 @@
     "timeWeek": 844,
     "timeMonth": 880,
     "timeYear": 880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   },
   {
     "name": "germo-goertz.fincrm.de",
