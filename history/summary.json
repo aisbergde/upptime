@@ -159,9 +159,9 @@
     "url": "https://germo-goertz.fincrm.de/",
     "icon": "https://icons.duckduckgo.com/ip3/germo-goertz.fincrm.de.ico",
     "slug": "germo-goertz-fincrm-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -170,7 +170,9 @@
     "timeWeek": 693,
     "timeMonth": 688,
     "timeYear": 742,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 0
+    }
   },
   {
     "name": "akademie.germo-goertz.de",
