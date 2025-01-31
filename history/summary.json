@@ -140,11 +140,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/steinberg-design.de.ico",
     "slug": "steinberg-design-de",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 876,
     "timeDay": 872,
     "timeWeek": 822,
@@ -177,17 +177,19 @@
     "url": "https://akademie.germo-goertz.de/",
     "icon": "https://icons.duckduckgo.com/ip3/akademie.germo-goertz.de.ico",
     "slug": "akademie-germo-goertz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1412,
-    "timeDay": 1032,
-    "timeWeek": 886,
-    "timeMonth": 1055,
-    "timeYear": 1412,
-    "dailyMinutesDown": {}
+    "time": 1396,
+    "timeDay": 845,
+    "timeWeek": 857,
+    "timeMonth": 1043,
+    "timeYear": 1396,
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   }
 ]
