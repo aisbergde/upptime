@@ -25,10 +25,10 @@
     "url": "https://germo-goertz.de",
     "icon": "https://icons.duckduckgo.com/ip3/germo-goertz.de.ico",
     "slug": "germo-goertz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1118,
@@ -37,6 +37,7 @@
     "timeMonth": 1095,
     "timeYear": 1118,
     "dailyMinutesDown": {
+      "2025-02-23": 1,
       "2024-12-30": 20
     }
   },
@@ -45,9 +46,9 @@
     "url": "https://der-immobilien-investor.de/",
     "icon": "https://icons.duckduckgo.com/ip3/der-immobilien-investor.de.ico",
     "slug": "der-immobilien-investor-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -57,6 +58,7 @@
     "timeMonth": 1076,
     "timeYear": 1475,
     "dailyMinutesDown": {
+      "2025-02-23": 0,
       "2025-01-15": 16
     }
   },
@@ -73,7 +75,7 @@
     "uptimeYear": "99.98%",
     "time": 940,
     "timeDay": 863,
-    "timeWeek": 938,
+    "timeWeek": 944,
     "timeMonth": 940,
     "timeYear": 940,
     "dailyMinutesDown": {
