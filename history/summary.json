@@ -4,18 +4,19 @@
     "url": "https://goertz-invest.de",
     "icon": "https://icons.duckduckgo.com/ip3/goertz-invest.de.ico",
     "slug": "goertz-invest-de",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.96%",
     "time": 1071,
     "timeDay": 1483,
     "timeWeek": 1105,
     "timeMonth": 1152,
     "timeYear": 1071,
     "dailyMinutesDown": {
+      "2025-02-28": 4,
       "2025-01-15": 16,
       "2024-12-30": 20
     }
@@ -26,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/germo-goertz.de.ico",
     "slug": "germo-goertz-de",
     "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "32.84%",
-    "uptimeWeek": "90.41%",
-    "uptimeMonth": "97.79%",
-    "uptimeYear": "99.04%",
+    "uptime": "98.60%",
+    "uptimeDay": "0.98%",
+    "uptimeWeek": "85.85%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "98.60%",
     "time": 1115,
     "timeDay": 0,
     "timeWeek": 1058,
     "timeMonth": 1105,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-02-28": 47,
+      "2025-02-28": 505,
       "2025-02-27": 921,
       "2024-12-30": 20
     }
@@ -47,11 +48,11 @@
     "url": "https://der-immobilien-investor.de/",
     "icon": "https://icons.duckduckgo.com/ip3/der-immobilien-investor.de.ico",
     "slug": "der-immobilien-investor-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1452,
     "timeDay": 1480,
@@ -59,6 +60,7 @@
     "timeMonth": 1106,
     "timeYear": 1452,
     "dailyMinutesDown": {
+      "2025-02-28": 3,
       "2025-01-15": 16
     }
   },
@@ -67,11 +69,11 @@
     "url": "https://felicia-xenia.de/",
     "icon": "https://icons.duckduckgo.com/ip3/felicia-xenia.de.ico",
     "slug": "felicia-xenia-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 944,
     "timeDay": 1454,
@@ -79,6 +81,7 @@
     "timeMonth": 963,
     "timeYear": 944,
     "dailyMinutesDown": {
+      "2025-02-28": 2,
       "2024-12-28": 23
     }
   },
@@ -87,10 +90,10 @@
     "url": "https://boruch-art.de/",
     "icon": "https://icons.duckduckgo.com/ip3/boruch-art.de.ico",
     "slug": "boruch-art-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
@@ -98,17 +101,19 @@
     "timeWeek": 792,
     "timeMonth": 832,
     "timeYear": 838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 2
+    }
   },
   {
     "name": "levitskaia-art.de",
     "url": "https://levitskaia-art.de/",
     "icon": "https://icons.duckduckgo.com/ip3/levitskaia-art.de.ico",
     "slug": "levitskaia-art-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 912,
@@ -116,17 +121,19 @@
     "timeWeek": 979,
     "timeMonth": 950,
     "timeYear": 912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 1
+    }
   },
   {
     "name": "steinberg-art.com",
     "url": "https://steinberg-art.com/",
     "icon": "https://icons.duckduckgo.com/ip3/steinberg-art.com.ico",
     "slug": "steinberg-art-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 668,
@@ -134,16 +141,18 @@
     "timeWeek": 678,
     "timeMonth": 674,
     "timeYear": 668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 1
+    }
   },
   {
     "name": "steinberg-design.de",
     "url": "https://steinberg-design.de/",
     "icon": "https://icons.duckduckgo.com/ip3/steinberg-design.de.ico",
     "slug": "steinberg-design-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -153,6 +162,7 @@
     "timeMonth": 923,
     "timeYear": 895,
     "dailyMinutesDown": {
+      "2025-02-28": 0,
       "2025-01-15": 16
     }
   },
