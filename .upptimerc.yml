@@ -23,6 +23,8 @@ sites:
     url: https://germo-goertz.fincrm.de/
   - name: akademie.germo-goertz.de
     url: https://akademie.germo-goertz.de/
+  - name: http://www.vineyardsaker.de/
+    url: http://www.vineyardsaker.de/
   # - name: aaa
   #   url: aaa
   # - name: IPv6 test
