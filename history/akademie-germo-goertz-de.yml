@@ -1,7 +1,7 @@
 url: https://akademie.germo-goertz.de/
-status: up
-code: 200
-responseTime: 1187
-lastUpdated: 2025-08-11T23:17:40.659Z
+status: down
+code: 502
+responseTime: 686
+lastUpdated: 2025-08-12T08:57:58.849Z
 startTime: 2024-12-18T12:44:00.878Z
 generator: Upptime <https://github.com/upptime/upptime>
