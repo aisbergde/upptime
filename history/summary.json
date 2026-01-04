@@ -14,7 +14,7 @@
     "timeDay": 1024,
     "timeWeek": 1142,
     "timeMonth": 1166,
-    "timeYear": 1167,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-03-15": 16,
       "2025-03-08": 73,
@@ -228,9 +228,9 @@
     "url": "https://akademie.germo-goertz.de/",
     "icon": "https://icons.duckduckgo.com/ip3/akademie.germo-goertz.de.ico",
     "slug": "akademie-germo-goertz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.94%",
@@ -240,6 +240,7 @@
     "timeMonth": 1121,
     "timeYear": 1134,
     "dailyMinutesDown": {
+      "2026-01-04": 0,
       "2025-12-18": 56,
       "2025-12-17": 25,
       "2025-12-16": 20,
