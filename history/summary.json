@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1159,
-    "timeDay": 1185,
-    "timeWeek": 1199,
-    "timeMonth": 1111,
+    "timeDay": 1089,
+    "timeWeek": 1232,
+    "timeMonth": 1104,
     "timeYear": 1181,
     "dailyMinutesDown": {
       "2026-01-19": 28,
-      "2025-03-15": 16,
-      "2025-03-08": 73
+      "2025-03-15": 16
     }
   },
   {
@@ -27,20 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/germo-goertz.de.ico",
     "slug": "germo-goertz-de",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1121,
-    "timeDay": 1176,
-    "timeWeek": 1189,
-    "timeMonth": 1103,
+    "timeDay": 1068,
+    "timeWeek": 1216,
+    "timeMonth": 1095,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2026-01-19": 27,
-      "2025-03-15": 15,
-      "2025-03-08": 73
+      "2025-03-15": 15
     }
   },
   {
@@ -53,15 +51,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 1189,
-    "timeDay": 1201,
-    "timeWeek": 1162,
-    "timeMonth": 1081,
+    "timeDay": 1096,
+    "timeWeek": 1180,
+    "timeMonth": 1070,
     "timeYear": 1139,
-    "dailyMinutesDown": {
-      "2025-03-08": 73
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "felicia-xenia.de",
@@ -73,15 +69,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 967,
-    "timeDay": 836,
-    "timeWeek": 1026,
-    "timeMonth": 942,
-    "timeYear": 973,
+    "timeDay": 765,
+    "timeWeek": 1014,
+    "timeMonth": 923,
+    "timeYear": 972,
     "dailyMinutesDown": {
-      "2025-06-01": 123,
-      "2025-03-08": 73
+      "2025-06-01": 123
     }
   },
   {
@@ -94,15 +89,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 847,
-    "timeDay": 706,
-    "timeWeek": 798,
-    "timeMonth": 808,
+    "timeDay": 847,
+    "timeWeek": 830,
+    "timeMonth": 803,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2025-03-11": 15,
-      "2025-03-08": 74
+      "2025-03-11": 15
     }
   },
   {
@@ -115,15 +109,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 930,
-    "timeDay": 839,
-    "timeWeek": 1026,
-    "timeMonth": 955,
+    "uptimeYear": "100.00%",
+    "time": 929,
+    "timeDay": 842,
+    "timeWeek": 1025,
+    "timeMonth": 938,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2025-03-11": 19,
-      "2025-03-08": 74
+      "2025-03-11": 19
     }
   },
   {
@@ -136,15 +129,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 705,
-    "timeDay": 599,
-    "timeWeek": 679,
-    "timeMonth": 673,
+    "timeDay": 722,
+    "timeWeek": 700,
+    "timeMonth": 671,
     "timeYear": 715,
-    "dailyMinutesDown": {
-      "2025-03-08": 74
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "steinberg-design.de",
@@ -156,15 +147,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 920,
-    "timeDay": 837,
-    "timeWeek": 869,
-    "timeMonth": 879,
+    "timeDay": 992,
+    "timeWeek": 913,
+    "timeMonth": 882,
     "timeYear": 907,
-    "dailyMinutesDown": {
-      "2025-03-08": 74
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "germo-goertz.fincrm.de",
@@ -177,10 +166,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 728,
-    "timeDay": 669,
-    "timeWeek": 724,
-    "timeMonth": 679,
+    "time": 727,
+    "timeDay": 567,
+    "timeWeek": 711,
+    "timeMonth": 672,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-11-03": 18,
@@ -206,10 +195,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1175,
-    "timeDay": 1327,
-    "timeWeek": 1224,
-    "timeMonth": 1159,
-    "timeYear": 1155,
+    "timeDay": 1007,
+    "timeWeek": 1192,
+    "timeMonth": 1150,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2026-01-04": 21,
       "2025-12-18": 56,
@@ -236,11 +225,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 3252,
-    "timeDay": 4382,
-    "timeWeek": 3625,
-    "timeMonth": 3346,
-    "timeYear": 3252,
+    "time": 3244,
+    "timeDay": 614,
+    "timeWeek": 2578,
+    "timeMonth": 3217,
+    "timeYear": 3244,
     "dailyMinutesDown": {
       "2025-05-06": 114,
       "2025-05-05": 162
