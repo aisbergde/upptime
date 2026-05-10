@@ -212,9 +212,9 @@
     "url": "http://www.vineyardsaker.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vineyardsaker.de.ico",
     "slug": "http-www-vineyardsaker-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.52%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.95%",
@@ -224,6 +224,7 @@
     "timeMonth": 4386,
     "timeYear": 3438,
     "dailyMinutesDown": {
+      "2026-05-10": 0,
       "2026-05-08": 250
     }
   }
