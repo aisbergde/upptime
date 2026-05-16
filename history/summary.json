@@ -4,11 +4,11 @@
     "url": "https://goertz-invest.de",
     "icon": "https://icons.duckduckgo.com/ip3/goertz-invest.de.ico",
     "slug": "goertz-invest-de",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1155,
     "timeDay": 950,
@@ -16,6 +16,7 @@
     "timeMonth": 1074,
     "timeYear": 1122,
     "dailyMinutesDown": {
+      "2026-05-16": 34,
       "2026-01-19": 28
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://germo-goertz.de",
     "icon": "https://icons.duckduckgo.com/ip3/germo-goertz.de.ico",
     "slug": "germo-goertz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1111,
     "timeDay": 1168,
@@ -36,6 +37,7 @@
     "timeMonth": 1074,
     "timeYear": 1098,
     "dailyMinutesDown": {
+      "2026-05-16": 29,
       "2026-01-19": 27
     }
   },
@@ -44,36 +46,39 @@
     "url": "https://der-immobilien-investor.de/",
     "icon": "https://icons.duckduckgo.com/ip3/der-immobilien-investor.de.ico",
     "slug": "der-immobilien-investor-de",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 1126,
+    "time": 1117,
     "timeDay": 940,
     "timeWeek": 1077,
     "timeMonth": 1024,
     "timeYear": 1096,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-16": 25
+    }
   },
   {
     "name": "felicia-xenia.de",
     "url": "https://felicia-xenia.de/",
     "icon": "https://icons.duckduckgo.com/ip3/felicia-xenia.de.ico",
     "slug": "felicia-xenia-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 961,
     "timeDay": 946,
     "timeWeek": 1027,
     "timeMonth": 954,
     "timeYear": 937,
     "dailyMinutesDown": {
+      "2026-05-16": 20,
       "2025-06-01": 123
     }
   },
@@ -82,63 +87,69 @@
     "url": "https://boruch-art.de/",
     "icon": "https://icons.duckduckgo.com/ip3/boruch-art.de.ico",
     "slug": "boruch-art-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 836,
     "timeDay": 679,
     "timeWeek": 777,
     "timeMonth": 737,
-    "timeYear": 808,
-    "dailyMinutesDown": {}
+    "timeYear": 807,
+    "dailyMinutesDown": {
+      "2026-05-16": 15
+    }
   },
   {
     "name": "levitskaia-art.de",
     "url": "https://levitskaia-art.de/",
     "icon": "https://icons.duckduckgo.com/ip3/levitskaia-art.de.ico",
     "slug": "levitskaia-art-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 922,
     "timeDay": 701,
     "timeWeek": 883,
     "timeMonth": 848,
-    "timeYear": 904,
-    "dailyMinutesDown": {}
+    "timeYear": 903,
+    "dailyMinutesDown": {
+      "2026-05-16": 10
+    }
   },
   {
     "name": "steinberg-art.com",
     "url": "https://steinberg-art.com/",
     "icon": "https://icons.duckduckgo.com/ip3/steinberg-art.com.ico",
     "slug": "steinberg-art-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 695,
+    "time": 696,
     "timeDay": 441,
     "timeWeek": 622,
     "timeMonth": 625,
-    "timeYear": 672,
-    "dailyMinutesDown": {}
+    "timeYear": 671,
+    "dailyMinutesDown": {
+      "2026-05-16": 5
+    }
   },
   {
     "name": "steinberg-design.de",
     "url": "https://steinberg-design.de/",
     "icon": "https://icons.duckduckgo.com/ip3/steinberg-design.de.ico",
     "slug": "steinberg-design-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,7 +158,9 @@
     "timeWeek": 830,
     "timeMonth": 864,
     "timeYear": 881,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-16": 0
+    }
   },
   {
     "name": "germo-goertz.fincrm.de",
@@ -164,7 +177,7 @@
     "timeDay": 605,
     "timeWeek": 698,
     "timeMonth": 684,
-    "timeYear": 710,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2025-11-03": 18,
       "2025-10-14": 38,
@@ -190,7 +203,7 @@
     "timeDay": 2133,
     "timeWeek": 2496,
     "timeMonth": 1599,
-    "timeYear": 1180,
+    "timeYear": 1179,
     "dailyMinutesDown": {
       "2026-04-17": 53,
       "2026-03-22": 36,
@@ -222,7 +235,7 @@
     "timeDay": 4655,
     "timeWeek": 4269,
     "timeMonth": 4563,
-    "timeYear": 3462,
+    "timeYear": 3457,
     "dailyMinutesDown": {
       "2026-05-10": 125,
       "2026-05-08": 250
