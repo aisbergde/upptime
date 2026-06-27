@@ -227,17 +227,17 @@
     "url": "https://akademie.germo-goertz.de/",
     "icon": "https://icons.duckduckgo.com/ip3/akademie.germo-goertz.de.ico",
     "slug": "akademie-germo-goertz-de",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 1275,
-    "timeDay": 2487,
-    "timeWeek": 2311,
-    "timeMonth": 2224,
-    "timeYear": 1306,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.92%",
+    "time": 1277,
+    "timeDay": 2161,
+    "timeWeek": 2252,
+    "timeMonth": 2212,
+    "timeYear": 1308,
     "dailyMinutesDown": {
       "2025-07-01": 28,
       "2025-07-24": 30,
@@ -250,7 +250,7 @@
       "2026-01-04": 21,
       "2026-03-22": 36,
       "2026-04-17": 53,
-      "2026-06-27": 0
+      "2026-06-27": 63
     }
   },
   {
