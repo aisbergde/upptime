@@ -266,23 +266,23 @@
     "url": "http://www.vineyardsaker.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.vineyardsaker.de.ico",
     "slug": "http-www-vineyardsaker-de",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 3604,
-    "timeDay": 4642,
-    "timeWeek": 6002,
-    "timeMonth": 4939,
-    "timeYear": 3691,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "88.80%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.54%",
+    "time": 3623,
+    "timeDay": 8206,
+    "timeWeek": 6723,
+    "timeMonth": 5153,
+    "timeYear": 3712,
     "dailyMinutesDown": {
       "2026-05-08": 250,
       "2026-05-10": 125,
       "2026-05-19": 708,
       "2026-05-18": 1157,
-      "2026-06-29": 1
+      "2026-06-29": 161
     }
   }
 ]
