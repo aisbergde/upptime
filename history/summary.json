@@ -221,20 +221,20 @@
     "url": "https://germo-goertz.fincrm.de/",
     "icon": "https://icons.duckduckgo.com/ip3/germo-goertz.fincrm.de.ico",
     "slug": "germo-goertz-fincrm-de",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 585,
-    "timeWeek": 603,
-    "timeMonth": 600,
-    "timeYear": 617,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "85.65%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.96%",
+    "time": 685,
+    "timeDay": 525,
+    "timeWeek": 581,
+    "timeMonth": 594,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-11-03": 18,
-      "2026-10-21": 1
+      "2026-10-21": 207
     }
   },
   {
@@ -243,11 +243,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/akademie.germo-goertz.de.ico",
     "slug": "akademie-germo-goertz-de",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.89%",
+    "uptimeDay": "85.62%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.83%",
     "time": 1507,
     "timeDay": 2261,
     "timeWeek": 2195,
@@ -265,7 +265,7 @@
       "2026-06-27": 63,
       "2026-06-30": 180,
       "2026-09-19": 191,
-      "2026-10-21": 1
+      "2026-10-21": 207
     }
   },
   {
